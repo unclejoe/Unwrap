@@ -13,6 +13,8 @@
 
 Unwrap is an app that helps you learn Swift faster and more effectively.
 
+Unwrap 是一款辅助学习swift程序设计的app。
+
 At its core lies almost 100 video lessons that teach all the fundamentals of the Swift programming language, with each lesson backed up by an interactive review.
 
 Once you’ve made some progress learning, you can dive into a selection of practice activities that make you write code by tapping, dragging, or typing, find errors, predict program output, and more. There are also daily challenges that test your overall language knowledge once per day, helping your new skills really sink in.
